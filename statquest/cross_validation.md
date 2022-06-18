@@ -1,4 +1,4 @@
-[HOME](SQ_home.md)
+[HOME](README.md)
 
 # Cross Validation
 > [video link](https://www.youtube.com/watch?v=fSytzGwwBVw) 

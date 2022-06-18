@@ -1,4 +1,4 @@
-[HOME](SQ_home.md)
+[HOME](README.md)
 
 # Decision and Classification Trees
 > [video link](https://www.youtube.com/watch?v=_L39rN6gz7Y) 

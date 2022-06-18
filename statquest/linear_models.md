@@ -1,4 +1,4 @@
-[HOME](SQ_home.md)
+[HOME](README.md)
 
 # Linear Regression
 > [video link](https://www.youtube.com/watch?v=nk2CQITm_eo) 
@@ -7,9 +7,9 @@
 * calculate R-squared.
 * Calculate a p-value for R-squared.
 
-* R^2 can reduce as the number of params increases because these parameters could reduce R^2 by complete chance, therefore making the model appear better, so use adjusted R^2 when the number of params increases.
+R^2 can reduce as the number of params increases because these parameters could reduce R^2 by complete chance, therefore making the model appear better, so use adjusted R^2 when the number of params increases.
 
-* The p-value for R^2 comis derived from F - the variation that is explained by the fit divided by the variation that is not explained by fit.
+The p-value for R^2 comis derived from F - the variation that is explained by the fit divided by the variation that is not explained by fit.
 
 # Multiple Regression
 > [video link](https://www.youtube.com/watch?v=zITIFTsivN8)
@@ -23,7 +23,7 @@ Simple regression is fitting a line to data. Multiple regression is fitting a pl
 # t-tests and ANOVA
 > [video link](https://www.youtube.com/watch?v=NF5_btOaCig)
 
-* Uses a Design Matrix.
+Uses a Design Matrix.
 
 1. Find the overall mean, then find SS residuals around the mean.
 2. Fit a line to the data - just fitting a line for each group - control and mutant group - this will just be the mean line.

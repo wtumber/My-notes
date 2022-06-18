@@ -1,4 +1,4 @@
-[HOME](SQ_home.md)
+[HOME](README.md)
 
 # Regression trees
 > [video link](https://www.youtube.com/watch?v=g9c66TUylZ4)

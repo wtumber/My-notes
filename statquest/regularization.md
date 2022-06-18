@@ -1,4 +1,4 @@
-[HOME](SQ_home.md)
+[HOME](README.md)
 
 # Regularization
 > [video link](https://www.youtube.com/watch?v=Q81RR3yKn30)

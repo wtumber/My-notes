@@ -1,4 +1,4 @@
-[HOME](SQ_home.md)
+[HOME](README.md)
 
 # Bias and Variance
 > [video link](https://www.youtube.com/watch?v=EuBBz3bI-aA) 

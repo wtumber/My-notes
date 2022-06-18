@@ -1,4 +1,4 @@
-[HOME](SQ_home.md)
+[HOME](README.md)
 
 # Random Forests
 > [video link](https://www.youtube.com/watch?v=J4Wdy0Wc_xQ)
@@ -24,7 +24,6 @@
 * Decide the value of the missing value based on the value with the heigher weighted average, or take the weighted average if continuous (7:30 on video 2).
 * Repeat this process over and over until the missing values converge.
 
-* We can draw a heatmap of the proximity matrix and an MDS plot.
+We can draw a heatmap of the proximity matrix and an MDS plot.
 
-
-* With a binary missing value duplicate the row, fill in with both True and False, then make a prediction using the decision trees. Whichever value is correct most often wins.
+With a binary missing value duplicate the row, fill in with both True and False, then make a prediction using the decision trees. Whichever value is correct most often wins.

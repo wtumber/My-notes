@@ -1,4 +1,4 @@
-[HOME](SQ_home.md)
+[HOME](README.md)
 
 # AdaBoost
 > [video link](https://www.youtube.com/watch?v=LsK-xG1cLYA) 

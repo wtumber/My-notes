@@ -1,4 +1,4 @@
-[HOME](SQ_home.md)
+[HOME](README.md)
 
 # Gradient Boosting
 > [video link](https://www.youtube.com/watch?v=3CC4N4z3GJc)
