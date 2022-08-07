@@ -1,4 +1,4 @@
-# My notes
+## My notes from online content
 
 This is a repo containing any notes I make from online content and any links to materials I plan to use in the future.
 
