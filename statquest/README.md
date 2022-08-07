@@ -6,9 +6,11 @@
 5. [Random Forests](random_forest.md)
 6. [Adaboost](adaboost.md)
 7. [Cross Validation](cross_validation.md)
-8. [Regularization](regularization.md) NOT DONE YET - need to watch part 2
-8. [Gradient Boosting](gradient_boost.md)
-9. [XGBoost](xgboost.md)
+8. [Regularization](regularization.md)
+8. [Gradient Boosting](gradient_boost.md) _completed video 1 of 4_
+10. [XGBoost](xgboost.md)
+
+Note: similar to XGBoost and worth considering are Catboost and LightGBM.
 
 ## To watch
 * Pruning trees
