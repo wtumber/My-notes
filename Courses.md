@@ -1,4 +1,7 @@
-## Links from my phone
+## Git
+ * [Best Git branching instructions](https://www.nobledesktop.com/learn/git/git-branches)
+
+## Links from mobile
 
 * [Data Science Cheatsheets](https://www.kaggle.com/datasets/timoboz/data-science-cheat-sheets)
 * [ML book on GitHub](https://github.com/rasbt/machine-learning-book)
@@ -8,4 +11,10 @@
 * [Article about Monzos ML stack](https://monzo.com/blog/2022/04/26/monzos-machine-learning-stack)
 * [Article about emerging Data Architectures](https://future.com/emerging-architectures-modern-data-infrastructure/)
 * [ML Courses on Youtube](https://github.com/dair-ai/ML-YouTube-Courses)
-* [MLS free book **MUST READ**](https://themlsbook.com/read)
+* [MLS free book](https://themlsbook.com/read)
+* [Rstudio Conference 2022 Takeaways](https://rpubs.com/tysonstanley/conf2022) *Contains useful Shiny tips*
+
+## Terms to search in more detail
+* Word2Vec
+* BERT LLM
+* SLAM in data science
