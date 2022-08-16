@@ -1,9 +1,10 @@
 ## Git
  * [Best Git branching instructions](https://www.nobledesktop.com/learn/git/git-branches)
 
-## Links from mobile
+## Links (Unassorted)
 
 * [Data Science Cheatsheets](https://www.kaggle.com/datasets/timoboz/data-science-cheat-sheets)
+* [Another Data Science Cheatsheet](https://github.com/aaronwangy/Data-Science-Cheatsheet)
 * [ML book on GitHub](https://github.com/rasbt/machine-learning-book)
 * [Google ML text classification course](https://developers.google.cn/machine-learning/guides/text-classification/step-2-5)
 * [95 Python DS project ideas](https://python.plainenglish.io/85-data-science-projects-c03c8750599e)
@@ -13,8 +14,13 @@
 * [ML Courses on Youtube](https://github.com/dair-ai/ML-YouTube-Courses)
 * [MLS free book](https://themlsbook.com/read)
 * [Rstudio Conference 2022 Takeaways](https://rpubs.com/tysonstanley/conf2022) *Contains useful Shiny tips*
+* [Introduction to PyTorch](https://pytorch.org/tutorials/beginner/nlp/pytorch_tutorial.html)
+* [Master list of ML courses](https://machinelearning.to/)
+* [Data Science Case studies](https://www.crayondata.com/6-of-my-favorite-case-studies-in-data-science/)
+* [Python Visualisation with Altair](https://altair-viz.github.io/getting_started/starting.html)
+* [Fake Name Generator](https://www.fakenamegenerator.com/)
+* [Unsolved US Murder Data](https://www.murderdata.org/p/data-docs.html?m=1)
+* 
 
 ## Terms to search in more detail
-* Word2Vec
-* BERT LLM
 * SLAM in data science
