@@ -69,6 +69,7 @@
 * [Descriptive Stats with R](https://rfortherestofus.com/2018/12/descriptive-stats-r/)
 * [Great example of a personal portfolio](https://jarin.me/)
 * [R for data science](https://r4ds.had.co.nz/vectors.html) 
+* [Sentiment analysis with NLTK](https://realpython.com/python-nltk-sentiment-analysis/#:~:text=Sentiment%20analysis%20is%20the%20practice,obtain%20insights%20from%20linguistic%20data.)
 
 ## Terms to search in more detail
 * SLAM in data science

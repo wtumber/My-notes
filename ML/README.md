@@ -1,4 +1,8 @@
-# from 0 to XGBoost 
+# ML
+
+## from 0 to XGBoost 
+**Content is videos from StatQuest on Youtube**
+
 1. [Decision Trees](decision_classification_trees.md)
 2. [Bias and Variance](bias_variance.md)
 3. [Linear Models](linear_models.md)
@@ -12,7 +16,7 @@
 
 Note: similar to XGBoost and worth considering are Catboost and LightGBM.
 
-## To watch
+### To watch
 * Pruning trees
 * PCA videos
 * SVMs

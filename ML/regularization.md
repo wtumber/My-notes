@@ -5,7 +5,7 @@
 
 > [part 2 link](https://www.youtube.com/watch?v=NGf0voTMlcs)
 
-## Ridge regression
+## Ridge regression (L2 regularization)
 Note that SS  means Sum of the Square residuals.
 
 1. As usual, fit a line using least squares.
@@ -16,7 +16,7 @@ We can solve where number parameters is much higher than the number of data poin
 
 So Ridge regression is = Least Squares + ridge regression penalty. It reduces variance and provides better long term predictions.
 
-## Lasso Regression
+## Lasso Regression (L1 regularization)
 absolute value of slope instead of squaring. The lambda penalty is
 acquired with cross-validation.
 

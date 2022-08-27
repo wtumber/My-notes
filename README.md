@@ -11,5 +11,5 @@ some courses are still contained on [this page](https://shielded-fortress-22361.
 
 The README will act as a master page, with further markdown pages denoting specific sections or content, such as the [Courses](/Courses.md) document.
 
-Currently working through [StatQuest Machine learning content](/statquest/README.md).
+Currently working through [StatQuest Machine learning content](/ML/README.md).
 
