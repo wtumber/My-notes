@@ -70,6 +70,21 @@
 * [Great example of a personal portfolio](https://jarin.me/)
 * [R for data science](https://r4ds.had.co.nz/vectors.html) 
 * [Sentiment analysis with NLTK](https://realpython.com/python-nltk-sentiment-analysis/#:~:text=Sentiment%20analysis%20is%20the%20practice,obtain%20insights%20from%20linguistic%20data.)
+* [Designing R Shiny and RMarkdown](https://www.rstudio.com/conference/2022/talks/creating-design-system-for-shiny/)
+* [An argument against R-squared (R2) - is it useless?](https://data.library.virginia.edu/is-r-squared-useless/)
+* [Clustering performance metrics](https://towardsdatascience.com/performance-metrics-in-machine-learning-part-3-clustering-d69550662dc6?gi=6a6b28440cb2)
+* [Pandas good practice - assign and chaining](https://ponder.io/professional-pandas-the-pandas-assign-method-and-chaining/)
+* [Imputing missing values with MICE](https://stats.stackexchange.com/questions/421545/multiple-imputation-by-chained-equations-mice-explained#:~:text=MICE%20is%20a%20multiple%20imputation,are%20missing%20completely%20at%20random).)
+* [Natural Language Processing with transformers](https://huggingface.co/transformersbook)
+* [Good model evaluation paper](https://arxiv.org/abs/1811.12808)
+* [Pytorch Deep Learning](https://isip.piconepress.com/courses/temple/ece_4822/resources/books/Deep-Learning-with-PyTorch.pdf)
+* [ML Ops, serverless ML, deploying ML](https://www.serverless-ml.org/)
+* 
+
+## Datasets
+* [Archive of very popular datasets](https://archive.ics.uci.edu/ml/index.php)
+* []
+
 
 ## Terms to search in more detail
 * SLAM in data science
