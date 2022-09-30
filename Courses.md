@@ -82,6 +82,28 @@
 * [Dimensionality reduction with MDS vs MDS+ (paper)](https://arxiv.org/abs/1801.10229)
 * [Very good text similarity resource](https://newscatcherapi.com/blog/ultimate-guide-to-text-similarity-with-python)
 * [Topic Modelling in Python](https://ourcodingclub.github.io/tutorials/topic-modelling-python/)
+* [Data Science Interview Question help](https://dipranjan.github.io/dsinterviewqns/intro.html)
+* [40 Years of boxplots - summary and history](https://vita.had.co.nz/papers/boxplots.pdf)
+* [Markov Chain Monte Carlo for probability](https://machinelearningmastery.com/markov-chain-monte-carlo-for-probability/)
+* [Introduction to Causality](https://matheusfacure.github.io/python-causality-handbook/01-Introduction-To-Causality.html)
+* [Great example of analysis done on tiktok users](https://medium.com/@enryu9000/lookism-in-tiktok-3def0f20cf78)
+* [MLOps courses](https://madewithml.com/)
+* [Data Science tutorial Notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
+* [Lots of deep learning youtube links](https://github.com/kmario23/deep-learning-drizzle)
+* [Another Hub of data science links](https://github.com/academic/awesome-datascience)
+* [Data Science/ML repo template](https://github.com/dslp/dslp-repo-template)
+* [Mixed Effect modelling in ecology](https://peerj.com/articles/4794/)
+* [Model Evaluation and Selection](https://arxiv.org/abs/1811.12808)
+* [Deep learning with Pytorch book](https://isip.piconepress.com/courses/temple/ece_4822/resources/books/Deep-Learning-with-PyTorch.pdf)
+* [Q-learning OpenAI gym](https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/)
+* [Structuring a data science project](https://github.com/dslp/dslp)
+* [Data Science Cheat Sheets](https://github.com/FavioVazquez/ds-cheatsheets)
+* [Diffusion Models](https://github.com/heejkoo/Awesome-Diffusion-Models#introductory-posts)
+* [Machine learning with Python example notebooks](https://github.com/Nyandwi/machine_learning_complete)
+* [Stable Diffusion with Tensorflow](https://github.com/divamgupta/stable-diffusion-tensorflow)
+* [MICE imputation explained](https://stats.stackexchange.com/questions/421545/multiple-imputation-by-chained-equations-mice-explained#:~:text=MICE%20is%20a%20multiple%20imputation,are%20missing%20completely%20at%20random).)
+* [Twitter bot in Python](https://dylancastillo.co/how-to-make-a-twitter-bot-for-free/)
+* 
 
 ## Datasets
 * [Archive of very popular datasets](https://archive.ics.uci.edu/ml/index.php)
@@ -93,5 +115,6 @@
 
 ## Other areas to check
 * Social media saves and bookmarks
+* Github stars
 * Medium
 * Saved images and videos in camera roll
