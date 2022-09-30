@@ -79,7 +79,9 @@
 * [Good model evaluation paper](https://arxiv.org/abs/1811.12808)
 * [Pytorch Deep Learning](https://isip.piconepress.com/courses/temple/ece_4822/resources/books/Deep-Learning-with-PyTorch.pdf)
 * [ML Ops, serverless ML, deploying ML](https://www.serverless-ml.org/)
-* 
+* [Dimensionality reduction with MDS vs MDS+ (paper)](https://arxiv.org/abs/1801.10229)
+* [Very good text similarity resource](https://newscatcherapi.com/blog/ultimate-guide-to-text-similarity-with-python)
+* [Topic Modelling in Python](https://ourcodingclub.github.io/tutorials/topic-modelling-python/)
 
 ## Datasets
 * [Archive of very popular datasets](https://archive.ics.uci.edu/ml/index.php)
