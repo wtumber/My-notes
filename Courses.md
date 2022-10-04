@@ -94,7 +94,8 @@
 * [LSTM with Keras, 2](https://thecleverprogrammer.com/2022/02/08/netflix-stock-price-prediction-with-machine-learning/)
 * [Using Prophet for time series forecasting](https://thecleverprogrammer.com/2021/03/27/tesla-stock-price-prediction-with-machine-learning/)
 * [Creating an app quickly with AutoTS and Streamlit](https://thecleverprogrammer.com/2021/06/03/end-to-end-machine-learning-model/)
-* 
+* [Papers on time-series deep learning](https://github.com/Alro10/deep-learning-time-series)
+* [LSTM with Pytorch](https://github.com/jinglescode/time-series-forecasting-pytorch)
 
 ## Datasets
 * [Archive of very popular datasets](https://archive.ics.uci.edu/ml/index.php)
