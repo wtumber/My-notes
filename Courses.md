@@ -111,7 +111,10 @@
 * [Gallery of many Jupyter notebooks](https://github.com/jupyter/jupyter/wiki)
 * [Gallery of data science projects](https://amankharwal.medium.com/)
 * [Gallery of more data science technique notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
-* 
+* [Python full book of technical skills](https://www.codeandtips.com/download/python-mini-reference-review-copy-20221003.pdf)
+* [Flexbox layout for multiple images](https://codepen.io/Pikaguru/pen/ZEoRJpE)
+* [Gallery of advanced ML notebooks](https://github.com/Nyandwi/machine_learning_complete)
+* [Inverse turing test blog](https://calmcode.io/blog/inverse-turing-test.html)
 
 ## Datasets
 * [Archive of very popular datasets](https://archive.ics.uci.edu/ml/index.php)
