@@ -103,15 +103,20 @@
 * [Stable Diffusion with Tensorflow](https://github.com/divamgupta/stable-diffusion-tensorflow)
 * [MICE imputation explained](https://stats.stackexchange.com/questions/421545/multiple-imputation-by-chained-equations-mice-explained#:~:text=MICE%20is%20a%20multiple%20imputation,are%20missing%20completely%20at%20random).)
 * [Twitter bot in Python](https://dylancastillo.co/how-to-make-a-twitter-bot-for-free/)
+* [Another project organisation tutorial - good one](https://gist.github.com/ericmjl/27e50331f24db3e8f957d1fe7bbbe510)
+* [Creating an R package from scratch](https://debruine.github.io/tutorials/your-first-r-package-with-unit-tests.html)
+* [Cambridge paper on fuzzy string-matching/record linkage](https://www.cambridge.org/core/journals/political-analysis/article/adaptive-fuzzy-string-matching-how-to-merge-datasets-with-only-one-messy-identifying-field/275D7890548359215AC728C1E35B53CE)
+* [Linear Regression clearly and interactively explained](https://mlu-explain.github.io/linear-regression/)
+* [ROC AUC interactive blog](https://mlu-explain.github.io/roc-auc/)
+* [Gallery of many Jupyter notebooks](https://github.com/jupyter/jupyter/wiki)
+* [Gallery of data science projects](https://amankharwal.medium.com/)
+* [Gallery of more data science technique notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 * 
 
 ## Datasets
 * [Archive of very popular datasets](https://archive.ics.uci.edu/ml/index.php)
 * []
 
-
-## Terms to search in more detail
-* SLAM in data science
 
 ## Other areas to check
 * Social media saves and bookmarks
