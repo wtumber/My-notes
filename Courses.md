@@ -17,6 +17,7 @@
 * [time series forecasting with R and modeltime](https://cran.r-project.org/web/packages/modeltime/vignettes/getting-started-with-modeltime.html)
 * [Time series trend identification with R - Mann-Kendall trend test](https://finnstats.com/index.php/2021/11/28/time-series-trend-analysis-in-r/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
 * [Time-series prediction methods - Q-plot,Prophet,etc.](https://finnstats.com/index.php/2021/05/05/stock-prediction/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
+* [working with interrupted time series methods](https://www.gov.uk/guidance/interrupted-time-series-study)
 
 ## NLP
 * [Sentiment analysis with NLTK](https://realpython.com/python-nltk-sentiment-analysis/#:~:text=Sentiment%20analysis%20is%20the%20practice,obtain%20insights%20from%20linguistic%20data.)
@@ -33,7 +34,7 @@
 * [Image Specific Scikit - Scikit-image](https://scikit-image.org/docs/stable/auto_examples/)
 * [Python full book of technical skills](https://www.codeandtips.com/download/python-mini-reference-review-copy-20221003.pdf)
 * [Interacting with APIs in Python](https://nbviewer.org/github/nealcaren/workshop_2014/blob/master/notebooks/5_Times_API.ipynb)
-
+* [Apache is better than pandas for memory](https://wesmckinney.com/blog/apache-arrow-pandas-internals/)
 
 ### Structuring a project
 * [How to Structure Python projects](https://guicommits.com/organize-python-code-like-a-pro/)
@@ -135,6 +136,8 @@
 * [26 Examples of R applications](https://www.ascent.io/blog/the-a-to-z-of-enterprise-applications-of-r/?prev=blog&utm_campaign=EARL%202022&utm_content=213308711&utm_medium=social&utm_source=twitter&hss_channel=tw-1428303648472322055)
 
 ## Other Links (misc)
+* [Project layout](https://github.com/yashgorana/tensorflow-starter-project/tree/main/notebooks)
+
 
 * [Businesss Analytics - distributions, graphs, modelling](https://www.causact.com/)
 * [Software modelling explained](https://www.tmwr.org/software-modeling.html)
