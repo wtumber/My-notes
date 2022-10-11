@@ -35,14 +35,15 @@
 * [Python full book of technical skills](https://www.codeandtips.com/download/python-mini-reference-review-copy-20221003.pdf)
 * [Interacting with APIs in Python](https://nbviewer.org/github/nealcaren/workshop_2014/blob/master/notebooks/5_Times_API.ipynb)
 * [Apache is better than pandas for memory](https://wesmckinney.com/blog/apache-arrow-pandas-internals/)
-* [Python Decortors](https://realpython.com/primer-on-python-decorators/)
+* [Python Decorators](https://realpython.com/primer-on-python-decorators/)
+* [Speeding up Python with Numba](https://numba.readthedocs.io/en/stable/user/5minguide.html)
 
 ### Design patterns and good practice for code
 * [What are design patterns](https://en.m.wikipedia.org/wiki/Design_Patterns)
 * [Design Patterns in ML](https://applyingml.com/resources/patterns/)
 * [Code improvement with two patterns](https://laszlo.substack.com/p/you-only-need-2-design-patterns-to)
 * [Refactoring Jupyter notebooks](https://laszlo.substack.com/p/how-can-a-data-scientist-refactor)
-* 
+* [Refactoring - unit testing, Sphinx documentation](https://campus.datacamp.com/courses/software-engineering-for-data-scientists-in-python/maintainability?ex=8)
 
 ### Structuring a project
 * [How to Structure Python projects](https://guicommits.com/organize-python-code-like-a-pro/)
@@ -51,6 +52,7 @@
 * [Another project organisation tutorial - good one](https://gist.github.com/ericmjl/27e50331f24db3e8f957d1fe7bbbe510)
 * [Structuring a data science project](https://github.com/dslp/dslp)
 * [Data Science/ML repo template](https://github.com/dslp/dslp-repo-template)
+* [Structuring a git-focussed project](https://github.com/hypergol/example)
 
 
 ### Pytorch
@@ -69,6 +71,8 @@
 
 ## Git
  * [Best Git branching instructions](https://www.nobledesktop.com/learn/git/git-branches)
+ * [General Git commands for your situation](https://ohshitgit.com/)
+ * 
 
 ## Visualisation
 * [Data Viz weekly examples](https://blog.datawrapper.de/category/data-vis-dispatch/)
