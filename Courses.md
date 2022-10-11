@@ -35,6 +35,14 @@
 * [Python full book of technical skills](https://www.codeandtips.com/download/python-mini-reference-review-copy-20221003.pdf)
 * [Interacting with APIs in Python](https://nbviewer.org/github/nealcaren/workshop_2014/blob/master/notebooks/5_Times_API.ipynb)
 * [Apache is better than pandas for memory](https://wesmckinney.com/blog/apache-arrow-pandas-internals/)
+* [Python Decortors](https://realpython.com/primer-on-python-decorators/)
+
+### Design patterns and good practice for code
+* [What are design patterns](https://en.m.wikipedia.org/wiki/Design_Patterns)
+* [Design Patterns in ML](https://applyingml.com/resources/patterns/)
+* [Code improvement with two patterns](https://laszlo.substack.com/p/you-only-need-2-design-patterns-to)
+* [Refactoring Jupyter notebooks](https://laszlo.substack.com/p/how-can-a-data-scientist-refactor)
+* 
 
 ### Structuring a project
 * [How to Structure Python projects](https://guicommits.com/organize-python-code-like-a-pro/)
@@ -137,6 +145,13 @@
 
 ## Other Links (misc)
 * [Project layout](https://github.com/yashgorana/tensorflow-starter-project/tree/main/notebooks)
+* [Feature engineering datetime features](https://stackoverflow.com/questions/46081731/whats-the-best-way-to-represent-hour-of-day-and-day-of-week-as-a-feature-in-for)
+  * [Representing days with angular distance](https://www.mikulskibartosz.name/time-in-machine-learning/)
+*  [Rearch scientist gallery of links](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
+* [Permutation importance to select features](https://www.google.com/search?q=permutatjon+importance&rlz=1CDGOYI_enGB760GB760&oq=permutatjon+importance&aqs=chrome..69i57j0i13i512l5.4348j0j7&hl=en-GB&sourceid=chrome-mobile&ie=UTF-8)
+* [Feature importance from XGBoost](https://mljar.com/blog/feature-importance-xgboost/)
+* 
+
 
 
 * [Businesss Analytics - distributions, graphs, modelling](https://www.causact.com/)
