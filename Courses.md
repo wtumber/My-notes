@@ -18,6 +18,9 @@
 * [Time series trend identification with R - Mann-Kendall trend test](https://finnstats.com/index.php/2021/11/28/time-series-trend-analysis-in-r/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
 * [Time-series prediction methods - Q-plot,Prophet,etc.](https://finnstats.com/index.php/2021/05/05/stock-prediction/?utm_source=ReviveOldPost&utm_medium=social&utm_campaign=ReviveOldPost)
 * [working with interrupted time series methods](https://www.gov.uk/guidance/interrupted-time-series-study)
+* [Forecasting - principles and practice (book)](https://otexts.com/fpp2/accuracy.html/)
+* [Cross-validation with time-series](https://robjhyndman.com/hyndsight/tscvexample/)
+* [Time series cross validation with pandas explained well](http://francescopochetti.com/pythonic-cross-validation-time-series-pandas-scikit-learn/) _Use shuffle=false for time-series data_
 
 ## NLP
 * [Sentiment analysis with NLTK](https://realpython.com/python-nltk-sentiment-analysis/#:~:text=Sentiment%20analysis%20is%20the%20practice,obtain%20insights%20from%20linguistic%20data.)
@@ -72,7 +75,6 @@
 ## Git
  * [Best Git branching instructions](https://www.nobledesktop.com/learn/git/git-branches)
  * [General Git commands for your situation](https://ohshitgit.com/)
- * 
 
 ## Visualisation
 * [Data Viz weekly examples](https://blog.datawrapper.de/category/data-vis-dispatch/)
