@@ -122,6 +122,8 @@
 * [ML method demos](https://github.com/trekhleb/homemade-machine-learning)
 * [End-to-end ML Pipeline tutorial](https://github.com/Spandan-Madan/DeepLearningProject)
 * [Open source libraries for creating production ML](https://github.com/EthicalML/awesome-production-machine-learning)
+* [MLOps course](https://github.com/GokuMohandas/mlops-course)
+
 
 ### Deep Learning content
 * [Neural Networks and Deep Learning - Free Book](http://neuralnetworksanddeeplearning.com/)
