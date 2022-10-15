@@ -6,6 +6,11 @@
 * [Fake Name Generator](https://www.fakenamegenerator.com/)
 * [Unsolved US Murder Data](https://www.murderdata.org/p/data-docs.html?m=1)
 
+### APIs
+* [Send emails with mailchimp free tier](https://mailchimp.com/en-gb/?currency=GBP)
+* [Generate random users](https://randomuser.me/)
+* [Dummy data API](https://dummyapi.io/)
+
 ## Model Evaluation
 * [Model Evaluation and Selection](https://arxiv.org/abs/1811.12808)
 * [Clustering performance metrics](https://towardsdatascience.com/performance-metrics-in-machine-learning-part-3-clustering-d69550662dc6?gi=6a6b28440cb2)
@@ -125,6 +130,7 @@
 * [Diffusion Models](https://github.com/heejkoo/Awesome-Diffusion-Models#introductory-posts)
 * [Stable Diffusion with Tensorflow](https://github.com/divamgupta/stable-diffusion-tensorflow)
 * [Lots of deep learning youtube links](https://github.com/kmario23/deep-learning-drizzle)
+* [Good reinforcement learning full book](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
 
 ## Articles and blogs
 * [Good example of analysis of a company](https://stockmarketnerd.beehiiv.com/p/paypal-deep-dive)
@@ -148,6 +154,8 @@
 * [Creating simple personal Sites with R](https://rdrr.io/cran/postcards/man/create_postcard.html)
 * [Database control with Shiny](https://medium.com/@mcodrescu/an-r-shiny-app-to-upload-database-tables-95accc75de5)
 * [26 Examples of R applications](https://www.ascent.io/blog/the-a-to-z-of-enterprise-applications-of-r/?prev=blog&utm_campaign=EARL%202022&utm_content=213308711&utm_medium=social&utm_source=twitter&hss_channel=tw-1428303648472322055)
+
+
 
 ## Other Links (misc)
 * [Project layout](https://github.com/yashgorana/tensorflow-starter-project/tree/main/notebooks)
@@ -184,6 +192,7 @@
 * [Gallery of many Jupyter notebooks](https://github.com/jupyter/jupyter/wiki)
 * [Gallery of more data science technique notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 * [Gallery of advanced ML notebooks](https://github.com/Nyandwi/machine_learning_complete)
+* [Good ML libraries Gallery](https://github.com/ml-tooling/best-of-ml-python)
 
 ## Other areas to check
 * Social media saves and bookmarks
