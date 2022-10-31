@@ -123,6 +123,8 @@
 * [End-to-end ML Pipeline tutorial](https://github.com/Spandan-Madan/DeepLearningProject)
 * [Open source libraries for creating production ML](https://github.com/EthicalML/awesome-production-machine-learning)
 * [MLOps course](https://github.com/GokuMohandas/mlops-course)
+* [Feature encoding guiding tool](https://miro.medium.com/max/2100/0*NBVi7M3sGyiUSyd5.png)
+* [Feature selection methods guiding tool](https://machinelearningmastery.com/feature-selection-with-real-and-categorical-data/)
 
 
 ### Deep Learning content
