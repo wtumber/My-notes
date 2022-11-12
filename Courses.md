@@ -1,5 +1,12 @@
 # Courses, Tutorials, Blogs, and other online content.
 
+## Processing
+* [Normalisation and Scaling numeric data book](https://www.oreilly.com/library/view/machine-learning-with/9781491989371/ch04.html)
+* [Permutation feature importance](https://christophm.github.io/interpretable-ml-book/feature-importance.html)
+* [AutoML with AutoGluon](https://auto.gluon.ai/stable/index.html)
+* [R lockfiles (venv for R)](https://rstudio.github.io/renv/reference/lockfiles.html)
+* []()
+
 ## Datasets
 * [Archive of very popular datasets](https://archive.ics.uci.edu/ml/index.php)
 * [Fashion-MNIST data](https://pytorch.org/vision/stable/datasets.html#fashion-mnist)
