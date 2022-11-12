@@ -5,7 +5,30 @@
 * [Permutation feature importance](https://christophm.github.io/interpretable-ml-book/feature-importance.html)
 * [AutoML with AutoGluon](https://auto.gluon.ai/stable/index.html)
 * [R lockfiles (venv for R)](https://rstudio.github.io/renv/reference/lockfiles.html)
-* []()
+* [Cookiecutter data science](https://github.com/drivendata/cookiecutter-data-science)
+* [mlpops course](https://github.com/GokuMohandas/mlops-course)
+* [MMOCR](https://github.com/open-mmlab/mmocr)
+* [Video to watch](https://www.youtube.com/watch?app=desktop&v=yrtAoBr3iuQ&feature=youtu.be)
+* [Best of ML with Python](https://github.com/ml-tooling/best-of-ml-python)
+* [Excel absolute references]
+* [Seaborn object methods](https://seaborn.pydata.org/tutorial/objects_interface.html)
+* [Google trends API for Python](https://pypi.org/project/pytrends/)
+* [Python Twitter API](https://python-twitter.readthedocs.io/en/latest/)
+* [Shiny App example](https://raimodns.shinyapps.io/pvalueinteractive/)
+* [2021 API papers](https://github.com/louisfb01/best_AI_papers_2021)
+* [Flutter app development](https://codelabs.developers.google.com/codelabs/first-flutter-app-pt1#0)
+* [Flutter apps with Python](https://medium.com/@mustafatahirhussein/exploring-flet-building-flutter-apps-in-python-1b680db5add2)
+* [Flutter home page](https://flutter.dev/)
+* [Beeware for easy app development](https://beeware.org/)
+* [Pre-commit python hooks](https://ljvmiranda921.github.io/notebook/2018/06/21/precommits-using-black-and-flake8/)
+* [YahooFinance API Guide](https://syncwith.com/yahoo-finance/yahoo-finance-api)
+* [DVC](https://dvc.org/)
+* [Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
+* 
+
+
+
+
 
 ## Datasets
 * [Archive of very popular datasets](https://archive.ics.uci.edu/ml/index.php)
