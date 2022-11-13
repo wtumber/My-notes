@@ -1,6 +1,6 @@
 # Courses, Tutorials, Blogs, and other online content.
 
-## Processing
+## links to process
 * [Normalisation and Scaling numeric data book](https://www.oreilly.com/library/view/machine-learning-with/9781491989371/ch04.html)
 * [Permutation feature importance](https://christophm.github.io/interpretable-ml-book/feature-importance.html)
 * [AutoML with AutoGluon](https://auto.gluon.ai/stable/index.html)
@@ -24,6 +24,19 @@
 * [YahooFinance API Guide](https://syncwith.com/yahoo-finance/yahoo-finance-api)
 * [DVC](https://dvc.org/)
 * [Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
+* [Python documentation with Sphinx](https://www.sphinx-doc.org/en/master/)
+* [ML Engineering courses](https://github.com/Ksyula/ML_Engineering)
+* [Standford full technical book on RL](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+* [GitHub pages demo](https://cybergis.github.io/github-pages-demo/index.html)
+* [Another project documenting method](https://squidfunk.github.io/mkdocs-material/)
+* [Function operators in R](http://adv-r.had.co.nz/Function-operators.html)
+* [PEARL for interviews, not STAR](https://jackiebavaro.substack.com/p/use-pearl-instead-of-star-to-shine)
+* [categorical encoding methods])https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/_
+* [Microsoft time series forecasting framework](https://microsoft.github.io/finnts/)
+* [Deep learning course - videos and slides](https://fleuret.org/dlc/)
+* [Tinybird for realtime data apps at any scale](https://www.tinybird.co/)
+* [Coaching tips and videos](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/mobilebasic)
+* [Designing data-intensive applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 * 
 
 
