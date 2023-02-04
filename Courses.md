@@ -1,6 +1,59 @@
 # Courses, Tutorials, Blogs, and other online content.
 
 ## links to process
+* [Daily ML questions](https://today.bnomial.com/)
+* [ML engineering for production - MLOps](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
+* [Andrew Ng course ML specialization](https://www.coursera.org/specializations/machine-learning-introduction)
+* [Fashion-MNIST with PyTorch](https://github.com/pranay414/Fashion-MNIST-Pytorch)
+* [HTML on steroids with HTMX](https://htmx.org/examples/)
+* [Creating a Python Package](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
+* [What are data products](https://analyticsindiamag.com/how-to-build-better-data-products/)
+* [Building a data product in 10 days](https://www.kdnuggets.com/2018/07/building-data-science-product-10-days.html)
+* [Marqo tensor-enabled search](https://github.com/marqo-ai/marqo)
+* [Clustering - stop using the elbow method](https://arxiv.org/abs/2212.12189)
+* [Audit packages for risks with Packj](https://github.com/ossillate-inc/packj)
+* [Clustering on mixed data types](https://towardsdatascience.com/clustering-on-mixed-data-types-5fe226f9d9ca)
+* [Cluster analysis on Panel Data](https://stats.stackexchange.com/questions/88320/cluster-analysis-on-panel-data)
+* [Microsoft Fluent UI for Shiny Apps](https://appsilon.github.io/shiny.fluent/)
+* [Ingesting documents with DL and CV](https://www.ibm.com/blogs/research/2020/05/largest-dataset-for-document-layout-analysis-used-to-ingest-covid-19-data/)
+* [GitHub cheat sheet](https://github.com/tiimgreen/github-cheat-sheet)
+* [Guide to prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
+* [End-to-end cloud compute stack for AI and ML](https://modal.com/)
+* [Showcase of tracking players with YOLOv5](https://github.com/roboflow/notebooks/blob/main/notebooks/how-to-track-football-players.ipynb)
+     * [Blog showcase](https://blog.roboflow.com/track-football-players/)
+* [Polars instead of Pandas](https://www.rhosignal.com/posts/polars-glob-csvs/)
+* [!!Stanford Supervised learning intro notes](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
+* [Learn Figma with free practice tasks](https://befront.io/)
+* [Annotate text with Streamlit](https://github.com/tvst/st-annotated-text)
+* [Complete intro to how the internet works](https://github.com/vasanthk/how-web-works)
+* [DataCamp - Gradient boosting with XGBoost](https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost)
+* [DataCamp - Unit testing for data science](https://www.datacamp.com/courses/unit-testing-for-data-science-in-python)
+* [DataCamp - Software Engineering for Data Scientists in Python](https://www.datacamp.com/courses/software-engineering-for-data-scientists-in-python) 
+* [DataCamp - Deep Learning with PyTorch](https://www.datacamp.com/courses/deep-learning-with-pytorch)
+* [DataCamp - MLOps Concepts](https://www.datacamp.com/courses/mlops-concepts)
+* [DataCamp - R OOP](https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r)
+* [DataCamp - Developing Python Packages](https://www.datacamp.com/courses/developing-python-packages)
+* [DataCamp - Ensemble Methods in Python](https://www.datacamp.com/courses/ensemble-methods-in-python)
+* [Collection of AI tools](https://www.futuretools.io/)
+* [Another collection of AI tools](https://aitools.fyi/)
+* [AI tool - Realistive and versatile speech software](https://beta.elevenlabs.io/)
+* [Never test for normality](https://www.allendowney.com/blog/2023/01/28/never-test-for-normality/)
+* [Course - Forecasting with ML](https://corise.com/course/forecasting-with-machine-learning)
+* [Theory-practice gap paper](https://www.sciencedirect.com/science/article/pii/S1367578820300080)
+* [Training a language model on a GPU in one day with cramming](https://arxiv.org/abs/2212.14034)
+* [Manage the lifecycle of ML](https://github.com/gchq/Bailo)
+* [Whitepaper for MLOps](https://wandb.ai/site/holistic-mlops-whitepaper-download)
+* [Never-ending learners](https://www.deepmind.com/blog/benchmarking-the-next-generation-of-never-ending-learners)
+* [Python feature engineering package](https://github.com/feature-engine/feature_engine)
+* [Python data structures and algorithms](https://runestone.academy/ns/books/published/pythonds/index.html)
+* [Python package for image stitching](https://github.com/lukasalexanderweber/stitching)
+* [Papers about transformers](https://github.com/dair-ai/Transformers-Recipe)
+* [Supervised ML courses](https://dair-ai.notion.site/Course-1-Supervised-Machine-Learning-3a200719f58145dc8a701a2545bdf9f4)
+
+
+
+
+
 * [Normalisation and Scaling numeric data book](https://www.oreilly.com/library/view/machine-learning-with/9781491989371/ch04.html)
 * [Permutation feature importance](https://christophm.github.io/interpretable-ml-book/feature-importance.html)
 * [AutoML with AutoGluon](https://auto.gluon.ai/stable/index.html)
@@ -37,8 +90,9 @@
 * [Tinybird for realtime data apps at any scale](https://www.tinybird.co/)
 * [Coaching tips and videos](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/mobilebasic)
 * [Designing data-intensive applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+* [Making Python products for predictive analytics](https://www.coursera.org/specializations/python-data-products-for-predictive-analytics)
+* [MadewithML MLOps courses](https://madewithml.com/)
 * 
-
 
 
 
@@ -48,6 +102,9 @@
 * [Fashion-MNIST data](https://pytorch.org/vision/stable/datasets.html#fashion-mnist)
 * [Fake Name Generator](https://www.fakenamegenerator.com/)
 * [Unsolved US Murder Data](https://www.murderdata.org/p/data-docs.html?m=1)
+* [Open Source document bank dataset](https://arxiv.org/abs/2006.01038)
+   * [Data available here](https://github.com/doc-analysis/DocBank)   
+* [Email datasets](https://github.com/Mithileysh/Email-Datasets)
 
 ### APIs
 * [Send emails with mailchimp free tier](https://mailchimp.com/en-gb/?currency=GBP)
