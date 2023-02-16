@@ -84,7 +84,7 @@
 * [Another project documenting method](https://squidfunk.github.io/mkdocs-material/)
 * [Function operators in R](http://adv-r.had.co.nz/Function-operators.html)
 * [PEARL for interviews, not STAR](https://jackiebavaro.substack.com/p/use-pearl-instead-of-star-to-shine)
-* [categorical encoding methods])https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/_
+* [categorical encoding methods](https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/_)
 * [Microsoft time series forecasting framework](https://microsoft.github.io/finnts/)
 * [Deep learning course - videos and slides](https://fleuret.org/dlc/)
 * [Tinybird for realtime data apps at any scale](https://www.tinybird.co/)
@@ -92,7 +92,7 @@
 * [Designing data-intensive applications](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
 * [Making Python products for predictive analytics](https://www.coursera.org/specializations/python-data-products-for-predictive-analytics)
 * [MadewithML MLOps courses](https://madewithml.com/)
-* 
+* [Explaining ML concepts in a spreadsheet](https://www.datasciencecentral.com/advanced-machine-learning-with-basic-excel/)
 
 
 
