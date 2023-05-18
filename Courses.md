@@ -94,8 +94,30 @@
 * [MadewithML MLOps courses](https://madewithml.com/)
 * [Explaining ML concepts in a spreadsheet](https://www.datasciencecentral.com/advanced-machine-learning-with-basic-excel/)
 
-
-
+---
+* [Creating custom shiny themes](https://shiny.posit.co/r/articles/build/themes/)
+* [Tokenisation and encoding with BERT](https://albertauyeung.github.io/2020/06/19/bert-tokenization.html/)
+* [Interactive free online probability course](https://seeing-theory.brown.edu/basic-probability/index.html)
+* [Example project - DL based website which recommends the best crop to grow](https://github.com/Gladiator07/Harvestify)
+* [Persisent data storage in shiny with R](https://deanattali.com/blog/shiny-persistent-data-storage/)
+* [Important ML papers explained](https://github.com/dair-ai/ML-Papers-Explained)
+* [huggingface ML course](https://huggingface.co/learn/nlp-course/chapter0/1)
+* [Security in a Shiny app](https://r4ds.github.io/bookclub-mshiny/the-security-within-your-app.html)
+* [kNN vs SVM for text embedding similarity](https://github.com/karpathy/randomfun/blob/master/knn_vs_svm.ipynb)
+* [ggplot wizardy](https://github.com/Z3tt/OutlierConf2021/)
+* [LLM QA using embeddings](https://github.com/openai/openai-cookbook/blob/main/examples/Question_answering_using_embeddings.ipynb)
+* [Example project](https://github.com/karpathy/arxiv-sanity-lite)
+* [Deploying ML models](https://paulabartabajo.substack.com/p/real-world-ml-011-how-do-you-deploy)
+* [Spotify ML blog](https://engineering.atspotify.com/2021/12/how-spotify-uses-ml-to-create-the-future-of-personalization/)
+* [Netflix ML blog](https://research.netflix.com/business-area/marketing-and-growth)
+* [Free LLM bootcamp including UX and LLMOps](https://fullstackdeeplearning.com/)
+* [Pinecone vector database](https://docs.pinecone.io/docs/semantic-text-search)
+* [ChromaDB vector database](https://www.trychroma.com/)
+* [Python developer skills roadmap](https://roadmap.sh/python)
+* [Stripe with Shiny](https://github.com/Tychobra/polishedpayments)
+* [Google Python Styleguide](https://google.github.io/styleguide/pyguide.html)
+* [Tailwind CSS colour generator](https://uicolors.app/create)
+* 
 
 ## Datasets
 * [Archive of very popular datasets](https://archive.ics.uci.edu/ml/index.php)
@@ -105,6 +127,19 @@
 * [Open Source document bank dataset](https://arxiv.org/abs/2006.01038)
    * [Data available here](https://github.com/doc-analysis/DocBank)   
 * [Email datasets](https://github.com/Mithileysh/Email-Datasets)
+* [Dataset of airports](https://github.com/mborsetti/airportsdata)
+* [Create plumber API with R](https://www.rplumber.io/)
+* [Mobile apps with Shiny](https://rinterface.github.io/shinyMobile/)
+* [Youtube walkthrough using Langchain to read PDF](https://www.youtube.com/watch?app=desktop&v=ih9PBGVVOO4)
+* [Backpropagation in Excel](https://pub.towardsai.net/building-a-neural-network-with-backpropagation-in-excel-b6c5d41b1c2)
+* [Python UMAP dimensionality reduction](https://umap.scikit-tda.org/transform.html)
+* [Top Gear episode scripts](https://subslikescript.com/series/Top_Gear-1628033)
+* [Scraping Autotrader data](https://www.shedloadofcode.com/blog/building-an-autotrader-scraper-with-python-to-search-for-multiple-makes-and-models)
+* [MLFlow guide](https://docs.databricks.com/mlflow/index.html)
+* [Create site for free with Framer](https://www.framer.com/)
+* [Stanford Free NLP book](https://web.stanford.edu/~jurafsky/slp3/)
+* [SQL murder mystery](https://mystery.knightlab.com/)
+* 
 
 ### APIs
 * [Send emails with mailchimp free tier](https://mailchimp.com/en-gb/?currency=GBP)
@@ -297,9 +332,3 @@
 * [Gallery of more data science technique notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 * [Gallery of advanced ML notebooks](https://github.com/Nyandwi/machine_learning_complete)
 * [Good ML libraries Gallery](https://github.com/ml-tooling/best-of-ml-python)
-
-## Other areas to check
-* Social media saves and bookmarks
-* Github stars
-* Medium
-* Saved images and videos in camera roll
