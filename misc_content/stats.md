@@ -62,3 +62,20 @@ X ~ B(10,0.6)
 
 # Data Science and probability
 Monte Carlo Simulations
+
+====================
+
+# Distributions
+Scribblings from testing distfit in Python.
+
+
+* https://stackoverflow.com/questions/6615489/fitting-distributions-goodness-of-fit-p-value-is-it-possible-to-do-this-with/16651524#16651524
+* https://pypi.org/project/distfit/
+* https://glowingpython.blogspot.com/2012/07/distribution-fitting-with-scipy.html
+* https://pythonhealthcare.org/2018/05/03/81-distribution-fitting-to-data/ 
+* https://machinelearningmastery.com/a-gentle-introduction-to-normality-tests-in-python/ https://stackoverflow.com/questions/37487830/how-to-find-probability-distribution-and-parameters-for-real-data-python-3 
+* https://greenteapress.com/thinkstats2/html/index.html
+* https://stackoverflow.com/questions/6620471/fitting-empirical-distribution-to-theoretical-ones-with-scipy-python#
+* Is it parametric or non-parametric
+* Doane's for correct number of histogram bins
+* Quantile-Quantile plot
