@@ -117,7 +117,55 @@
 * [Stripe with Shiny](https://github.com/Tychobra/polishedpayments)
 * [Google Python Styleguide](https://google.github.io/styleguide/pyguide.html)
 * [Tailwind CSS colour generator](https://uicolors.app/create)
-* 
+ 
+---
+
+* [Looking at HTML called a hacker](https://futurism.com/the-byte/governor-journalist-hacker-html)
+* [Good vis with R - Tidy Tuesday](https://github.com/AbdoulMa/TidyTuesday/tree/main/2023/2023_w6)
+* [Man-hours for watch matching - A good example of story telling](https://watchesbysjx.com/2022/11/watchmaking-market-map-2022.html)
+* [Make old R code run again](https://www.r-bloggers.com/2023/02/rang-make-ancient-r-code-run-again/)
+* [Tidyr with JuliaLang](https://github.com/TidierOrg/Tidier.jl)
+* [Great NLP concepts book](https://web.stanford.edu/~jurafsky/slp3/)
+* [Top-coding/winsorizing - Statistical methods](https://en.wikipedia.org/wiki/Winsorizing)
+* [Transformers explained posters](https://github.com/abacaj/transformers)
+* [Blog - building a personal search engine](https://thesephist.com/posts/monocle/)
+* [Cosmo xl model (model card)](https://huggingface.co/allenai/cosmo-xl?text=Hey+my+name+is+Thomas%21+How+are+you%3F)
+* [RLHF explained](https://wandb.ai/ayush-thakur/RLHF/reports/Understanding-Reinforcement-Learning-from-Human-Feedback-RLHF-Part-1--VmlldzoyODk5MTIx)
+* [Paper summarisation with Langchain](https://lancemartin.notion.site/lancemartin/Langchain-for-paper-summarization-d4ad122ea9a64c0eb1f981e743d6c419)
+* [Package for linear mixed effect modelling in R](https://cran.r-project.org/web/packages/lme4/index.html)
+* [Guide to using MLflow](https://docs.databricks.com/mlflow/index.html)
+* [Using SQLite in production](https://victoria.dev/blog/sqlite-in-production-with-wal/#:~:text=Instead%20of%20using%20the%20client,and%20has%20no%20external%20dependencies.)
+* [QA on online documents though langchain in Python](https://www.activeloop.ai/resources/ultimate-guide-to-lang-chain-deep-lake-build-chat-gpt-to-answer-questions-on-your-financial-data/)
+* [Shiny themes with bslib](https://shiny.posit.co/r/articles/build/themes/)
+* [Tokenisation and encoding with BERT](https://albertauyeung.github.io/2020/06/19/bert-tokenization.html/)
+* [Interactive introduction to basic probability](https://seeing-theory.brown.edu/basic-probability/index.html)
+* [Huggingface NLP course](https://huggingface.co/learn/nlp-course/chapter0/1)
+* [Persistent data storage in Shiny](https://deanattali.com/blog/shiny-persistent-data-storage/)
+* [Data project ideas](https://datastoryteller.gumroad.com/p/examples-of-data-analytics-projects)
+* [Key ML papers explaned](https://github.com/dair-ai/ML-Papers-Explained)
+* [Stanford Report on AI trends](https://aiindex.stanford.edu/report/)
+* [KNN vs SVM for similarity-karpathy](https://github.com/karpathy/randomfun/blob/master/knn_vs_svm.ipynb)
+* [Tips and tricks for good ggplots in R](https://github.com/Z3tt/OutlierConf2021/)
+* [QA using embeddings - OpenAI cookbook](https://github.com/openai/openai-cookbook/blob/main/examples/Question_answering_using_embeddings.ipynb)
+* [Arxiv-sanity-lite: Grouping similar arxiv papers](https://github.com/karpathy/arxiv-sanity-lite)
+* [Spotify engineering blog - how do they personalise recommendations](https://engineering.atspotify.com/2021/12/how-spotify-uses-ml-to-create-the-future-of-personalization/)
+* [Netflix engineering blog](https://research.netflix.com/business-area/marketing-and-growth)
+* [Semantic search using a pinecone vector DB](https://docs.pinecone.io/docs/semantic-text-search)
+* [The Python developer roadmap](https://roadmap.sh/python)
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
+* []()
 
 ## Datasets
 * [Archive of very popular datasets](https://archive.ics.uci.edu/ml/index.php)
@@ -139,7 +187,9 @@
 * [Create site for free with Framer](https://www.framer.com/)
 * [Stanford Free NLP book](https://web.stanford.edu/~jurafsky/slp3/)
 * [SQL murder mystery](https://mystery.knightlab.com/)
-* 
+* [Finance data](https://github.com/JerBouma/FinanceDatabase)
+* [Coastal images](https://www.coastsnap.com/data/download-images)
+* [Airports data](https://github.com/mborsetti/airportsdata)
 
 ### APIs
 * [Send emails with mailchimp free tier](https://mailchimp.com/en-gb/?currency=GBP)
@@ -215,6 +265,7 @@
 ## Git
  * [Best Git branching instructions](https://www.nobledesktop.com/learn/git/git-branches)
  * [General Git commands for your situation](https://ohshitgit.com/)
+ * [Why to use atomic git commits](https://dev.to/samuelfaure/how-atomic-git-commits-dramatically-increased-my-productivity-and-will-increase-yours-too-4a84)
 
 ## Visualisation
 * [Data Viz weekly examples](https://blog.datawrapper.de/category/data-vis-dispatch/)
