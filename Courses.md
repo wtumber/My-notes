@@ -1,6 +1,49 @@
 # Courses, Tutorials, Blogs, and other online content.
 
 ## links to process
+* https://github.com/michaelgutmann/ml-pen-and-paper-exercises
+* https://rinterface.github.io/shinyMobile/
+* https://rviews.rstudio.com/2019/10/17/deploying-data-with-pins/
+* [Example google model card](https://modelcards.withgoogle.com/object-detection)
+* [Vetiver MLOps model cards](https://vetiver.rstudio.com/learn-more/model-card.html)
+* [Cool embedding projector](https://projector.tensorflow.org/)
+* [Practical MLOps O'reilly book](https://www.oreilly.com/library/view/practical-mlops/9781098103002/)
+* [ML Engineering book](https://www.mlebook.com/wiki/doku.php)
+* [TDA vs t-SNE or UMAP](https://datarefiner.com/feed/why-tda?utm_source=substack&utm_medium=email)
+* [R CI-CD on GitHub](https://raps-with-r.dev/ci_cd.html)
+* [Automating a data pipeline discussion](https://old.reddit.com/r/dataengineering/comments/14trirs/noob_question_but_how_do_you_deploy_and_automate/)
+* [Introduction to DE free book](https://www.startdataengineering.com/post/design-patterns/)
+* [organising data teams in a company](https://medium.com/super/how-should-our-company-structure-our-data-team-e71f6846024d)
+* [DE for models - model training](https://dataengineeringcentral.substack.com/p/mlops-101-model-training)
+* [Data Engineer Wiki and required skills list](https://dataengineering.wiki/FAQ/What+skills+do+I+need+to+become+a+Data+Engineer)
+* [ML compendium book](https://github.com/orico/www.mlcompendium.com)
+* [Designing Data-Intensive Applications book](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
+* [Discord blog about data scientists - two types](https://discord.com/blog/how-data-science-informs-strategy-innovation-at-discord)
+* [Animating embeddings during tuning - quite cool](https://pub.towardsai.net/how-i-created-an-animation-of-the-embeddings-during-fine-tuning-2b8bdf49f822)
+* [Databricks book - The big book of data engineering](https://www.databricks.com/resources/ebook/big-book-data-engineering-2nd-edition?scid=7018Y000001Fi0oQAC&utm_medium=paid+search&utm_source=google&utm_campaign=20006921019&utm_adgroup=143493486370&utm_content=ebook&utm_offer=big-book-data-engineering-2nd-edition&utm_ad=662572374205&utm_term=data%20engineering&gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8t-HS9TR0xOFASLdUh1ytrO0qDo1PlX9kaZvDBIVaCiTRA9ONIDJewaAjwpEALw_wcB)
+* [Learn SQL](https://mode.com/sql-tutorial/)
+* [ETL vs ELT design patterns](https://aws.amazon.com/blogs/big-data/etl-and-elt-design-patterns-for-lake-house-architecture-using-amazon-redshift-part-1/)
+* [PySpark youtube course](https://www.youtube.com/watch?app=desktop&v=jWZ9K1agm5Y)
+* [Portfolio of cool data science projects](https://www.datascienceportfol.io/data-science-projects/)
+* [OLTP definition](https://www.ibm.com/topics/oltp#:~:text=OLTP%2C%20or%20online%20transactional%20processing,of%20data%20in%20a%20database.)
+* [OLAP definition](https://aws.amazon.com/what-is/olap/#:~:text=Online%20analytical%20processing%20(OLAP)%20is,smart%20meters%2C%20and%20internal%20systems.)
+* [Visualising embeddings](https://towardsdatascience.com/visualizations-of-embeddings-2910580df7f4)
+* [Oversampling to deal with unbalanced datasets](https://stats.stackexchange.com/questions/357466/are-unbalanced-datasets-problematic-and-how-does-oversampling-purport-to-he)
+* [PDF handbook of cluster analysis](https://www.semanticscholar.org/paper/Handbook-of-Cluster-Analysis-Hennig-Meil%C4%83/38a94050e12b01027d62b72a1cdac7c17b2cc8a2)
+* [Explaining and understanding random forests](https://arxiv.org/abs/1407.7502)
+* [Over unit testing - property testing](https://blog.robertroskam.com/p/100-test-coverage-is-not-enough)
+* [Big compendium of R packages](https://r-universe.dev/search/)
+* [Godot to make games](https://godotengine.org/download/android/)
+* [pytest polars](https://hk.linkedin.com/posts/lucazanna_data-python-polars-activity-7046605817625636865-gSy2)
+* [Testing with Polars](https://pola-rs.github.io/polars/py-polars/html/reference/testing.html)
+* [Testing during DE](https://laredoute.io/blog/test-driven-development-in-data-engineering-the-good-the-bad-and-the-ugly/)
+* pdb.set_trace()
+* %debug magic
+
+
+
+
+
 * [Daily ML questions](https://today.bnomial.com/)
 * [ML engineering for production - MLOps](https://www.coursera.org/specializations/machine-learning-engineering-for-production-mlops)
 * [Andrew Ng course ML specialization](https://www.coursera.org/specializations/machine-learning-introduction)
