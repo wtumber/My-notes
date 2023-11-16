@@ -7,12 +7,7 @@ This repo contains some notes I make from online content and any links to materi
 
 # Courses, Tutorials, Blogs, and other online content.
 
-## links to process
-* [ML pen and paper exercises](https://github.com/michaelgutmann/ml-pen-and-paper-exercises)
-
-
-
-
+## ML Ops / ML Engineering
 * [Practical MLOps O'reilly book](https://www.oreilly.com/library/view/practical-mlops/9781098103002/)
 * [ML Engineering book](https://www.mlebook.com/wiki/doku.php)
 * [Manage the lifecycle of ML](https://github.com/gchq/Bailo)
@@ -28,93 +23,17 @@ This repo contains some notes I make from online content and any links to materi
 * [mlOps course](https://github.com/GokuMohandas/mlops-course)
 
 
-
+## DE
 * [Automating a data pipeline discussion](https://old.reddit.com/r/dataengineering/comments/14trirs/noob_question_but_how_do_you_deploy_and_automate/)
 * [Introduction to DE free book](https://www.startdataengineering.com/post/design-patterns/)
 * [DE for models - model training](https://dataengineeringcentral.substack.com/p/mlops-101-model-training)
 * [Data Engineer Wiki and required skills list](https://dataengineering.wiki/FAQ/What+skills+do+I+need+to+become+a+Data+Engineer)
 * [Databricks book - The big book of data engineering](https://www.databricks.com/resources/ebook/big-book-data-engineering-2nd-edition?scid=7018Y000001Fi0oQAC&utm_medium=paid+search&utm_source=google&utm_campaign=20006921019&utm_adgroup=143493486370&utm_content=ebook&utm_offer=big-book-data-engineering-2nd-edition&utm_ad=662572374205&utm_term=data%20engineering&gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8t-HS9TR0xOFASLdUh1ytrO0qDo1PlX9kaZvDBIVaCiTRA9ONIDJewaAjwpEALw_wcB)
 * [Designing Data-Intensive Applications book](https://www.oreilly.com/library/view/designing-data-intensive-applications/9781491903063/)
-
-
-* [Oversampling to deal with unbalanced datasets](https://stats.stackexchange.com/questions/357466/are-unbalanced-datasets-problematic-and-how-does-oversampling-purport-to-he)
-* [PDF handbook of cluster analysis](https://www.semanticscholar.org/paper/Handbook-of-Cluster-Analysis-Hennig-Meil%C4%83/38a94050e12b01027d62b72a1cdac7c17b2cc8a2)
-* [Explaining and understanding random forests](https://arxiv.org/abs/1407.7502)
-
-* [organising data teams in a company](https://medium.com/super/how-should-our-company-structure-our-data-team-e71f6846024d)
-
-* [Portfolio of cool data science projects](https://www.datascienceportfol.io/data-science-projects/)
-
-
-
-
-
 * [PySpark youtube course](https://www.youtube.com/watch?app=desktop&v=jWZ9K1agm5Y)
-
 * [ETL vs ELT design patterns](https://aws.amazon.com/blogs/big-data/etl-and-elt-design-patterns-for-lake-house-architecture-using-amazon-redshift-part-1/)
 * [OLTP definition](https://www.ibm.com/topics/oltp#:~:text=OLTP%2C%20or%20online%20transactional%20processing,of%20data%20in%20a%20database.)
 * [OLAP definition](https://aws.amazon.com/what-is/olap/#:~:text=Online%20analytical%20processing%20(OLAP)%20is,smart%20meters%2C%20and%20internal%20systems.)
-
-
-
-* [Fashion-MNIST with PyTorch](https://github.com/pranay414/Fashion-MNIST-Pytorch)
-
-
-
-* [Creating a Python Package](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
-* [What are data products](https://analyticsindiamag.com/how-to-build-better-data-products/)
-* [Building a data product in 10 days](https://www.kdnuggets.com/2018/07/building-data-science-product-10-days.html)
-
-
-* [Audit packages for risks with Packj](https://github.com/ossillate-inc/packj)
-
-* [Clustering - stop using the elbow method](https://arxiv.org/abs/2212.12189)
-* [Clustering on mixed data types](https://towardsdatascience.com/clustering-on-mixed-data-types-5fe226f9d9ca)
-* [Cluster analysis on Panel Data](https://stats.stackexchange.com/questions/88320/cluster-analysis-on-panel-data)
-
-* [Ingesting documents with DL and CV](https://www.ibm.com/blogs/research/2020/05/largest-dataset-for-document-layout-analysis-used-to-ingest-covid-19-data/)
-* [GitHub cheat sheet](https://github.com/tiimgreen/github-cheat-sheet)
-* [Guide to prompt engineering](https://github.com/dair-ai/Prompt-Engineering-Guide)
-* [End-to-end cloud compute stack for AI and ML](https://modal.com/)
-* [Showcase of tracking players with YOLOv5](https://github.com/roboflow/notebooks/blob/main/notebooks/how-to-track-football-players.ipynb)
-     * [Blog showcase](https://blog.roboflow.com/track-football-players/)
-* [Polars instead of Pandas](https://www.rhosignal.com/posts/polars-glob-csvs/)
-* [!!Stanford Supervised learning intro notes](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
-
-* [Annotate text with Streamlit](https://github.com/tvst/st-annotated-text)
-* [Complete intro to how the internet works](https://github.com/vasanthk/how-web-works)
-
-* [Course - Forecasting with ML](https://corise.com/course/forecasting-with-machine-learning)
-* [Theory-practice gap paper](https://www.sciencedirect.com/science/article/pii/S1367578820300080)
-* [Training a language model on a GPU in one day with cramming](https://arxiv.org/abs/2212.14034)
-
-* [Never-ending learners](https://www.deepmind.com/blog/benchmarking-the-next-generation-of-never-ending-learners)
-* [Python feature engineering package](https://github.com/feature-engine/feature_engine)
-* [Python data structures and algorithms](https://runestone.academy/ns/books/published/pythonds/index.html)
-* [Python package for image stitching](https://github.com/lukasalexanderweber/stitching)
-* [Papers about transformers](https://github.com/dair-ai/Transformers-Recipe)
-* [Supervised ML courses](https://dair-ai.notion.site/Course-1-Supervised-Machine-Learning-3a200719f58145dc8a701a2545bdf9f4)
-
-
-* [DVC](https://dvc.org/)
-* [Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
-
-
-* [Standford full technical book on RL](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
-
-* [Another project documenting method](https://squidfunk.github.io/mkdocs-material/)
-
-* [PEARL for interviews, not STAR](https://jackiebavaro.substack.com/p/use-pearl-instead-of-star-to-shine)
-* [categorical encoding methods](https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/_)
-
-* [Microsoft time series forecasting framework](https://microsoft.github.io/finnts/)
-
-* [Deep learning course - videos and slides](https://fleuret.org/dlc/)
-
-* [MMOCR](https://github.com/open-mmlab/mmocr)
-* [Video to watch](https://www.youtube.com/watch?app=desktop&v=yrtAoBr3iuQ&feature=youtu.be)
-* [Best of ML with Python](https://github.com/ml-tooling/best-of-ml-python)
-
 
 ## Datacamp courses
 * [DataCamp - Gradient boosting with XGBoost](https://www.datacamp.com/courses/extreme-gradient-boosting-with-xgboost)
@@ -150,30 +69,17 @@ This repo contains some notes I make from online content and any links to materi
 * [Normalisation and Scaling numeric data book](https://www.oreilly.com/library/view/machine-learning-with/9781491989371/ch04.html)
 * [Permutation feature importance](https://christophm.github.io/interpretable-ml-book/feature-importance.html)
 * [Never test for normality](https://www.allendowney.com/blog/2023/01/28/never-test-for-normality/)
-
-
-
-
-
-
-* [AutoML with AutoGluon](https://auto.gluon.ai/stable/index.html)
-* [Cookiecutter data science](https://github.com/drivendata/cookiecutter-data-science)
-* [Python developer skills roadmap](https://roadmap.sh/python)
-* [Google Python Styleguide](https://google.github.io/styleguide/pyguide.html)
-* [Seaborn object methods](https://seaborn.pydata.org/tutorial/objects_interface.html)
-* [Making Python products for predictive analytics](https://www.coursera.org/specializations/python-data-products-for-predictive-analytics)
-* [Python documentation with Sphinx](https://www.sphinx-doc.org/en/master/)
-* [Pre-commit python hooks](https://ljvmiranda921.github.io/notebook/2018/06/21/precommits-using-black-and-flake8/)
-
+* [Clustering - stop using the elbow method](https://arxiv.org/abs/2212.12189)
+* [Oversampling to deal with unbalanced datasets](https://stats.stackexchange.com/questions/357466/are-unbalanced-datasets-problematic-and-how-does-oversampling-purport-to-he)
+* [categorical encoding methods](https://www.analyticsvidhya.com/blog/2020/08/types-of-categorical-data-encoding/_)
+* [Training a language model on a GPU in one day with cramming](https://arxiv.org/abs/2212.14034)
 
 ## Coaching
 
+* [Data Science Interview Question help](https://dipranjan.github.io/dsinterviewqns/intro.html)
+* [organising data teams in a company](https://medium.com/super/how-should-our-company-structure-our-data-team-e71f6846024d)
 * [Coaching tips and videos](https://docs.google.com/document/d/18FiJbYn53fTtPmphfdCKT2TMWH-8Y2L-MLqDk-MFV4s/mobilebasic)
-
----
-
-
----
+* [PEARL for interviews, not STAR](https://jackiebavaro.substack.com/p/use-pearl-instead-of-star-to-shine)
 
 ## NLP
 
@@ -206,18 +112,6 @@ This repo contains some notes I make from online content and any links to materi
 * [ChromaDB vector database](https://www.trychroma.com/)
   
 
-
-
-
-
-
-
-
-
-
-* [Important ML papers explained](https://github.com/dair-ai/ML-Papers-Explained)
-* [huggingface ML course](https://huggingface.co/learn/nlp-course/chapter0/1)
-
 ## Web dev
 
 * [GitHub pages demo](https://cybergis.github.io/github-pages-demo/index.html)
@@ -231,47 +125,6 @@ This repo contains some notes I make from online content and any links to materi
 * [Learn Figma with free practice tasks](https://befront.io/)
 * [Looking at HTML called a hacker](https://futurism.com/the-byte/governor-journalist-hacker-html)
 * [Tailwind CSS Color Generator](https://uicolors.app/create)
-
- 
----
-
-
-* [Man-hours for watch matching - A good example of story telling](https://watchesbysjx.com/2022/11/watchmaking-market-map-2022.html)
-
-* [Tidyr with JuliaLang](https://github.com/TidierOrg/Tidier.jl)
-
-
-* [Transformers explained posters](https://github.com/abacaj/transformers)
-* [Blog - building a personal search engine](https://thesephist.com/posts/monocle/)
-
-* [RLHF explained](https://wandb.ai/ayush-thakur/RLHF/reports/Understanding-Reinforcement-Learning-from-Human-Feedback-RLHF-Part-1--VmlldzoyODk5MTIx)
-* [Paper summarisation with Langchain](https://lancemartin.notion.site/lancemartin/Langchain-for-paper-summarization-d4ad122ea9a64c0eb1f981e743d6c419)
-
-* [Guide to using MLflow](https://docs.databricks.com/mlflow/index.html)
-
-
-
-* [Huggingface NLP course](https://huggingface.co/learn/nlp-course/chapter0/1)
-* [Data project ideas](https://datastoryteller.gumroad.com/p/examples-of-data-analytics-projects)
-* [Key ML papers explaned](https://github.com/dair-ai/ML-Papers-Explained)
-* [Stanford Report on AI trends](https://aiindex.stanford.edu/report/)
-
-
-* [Backpropagation neural network in Excel](https://pub.towardsai.net/building-a-neural-network-with-backpropagation-in-excel-b6c5d41b1c2)
-* [Abstract and reasoning corpus - The new AI benchmark](https://github.com/fchollet/ARC)
-
-* [BTYD and Customer Lifetime value](https://saulventura.github.io/BTYD/)
-
-
-
-
-
-
-* [Youtube walkthrough using Langchain to read PDF](https://www.youtube.com/watch?app=desktop&v=ih9PBGVVOO4)
-* [Backpropagation in Excel](https://pub.towardsai.net/building-a-neural-network-with-backpropagation-in-excel-b6c5d41b1c2)
-* [Python UMAP dimensionality reduction](https://umap.scikit-tda.org/transform.html)
-* [Train a chatbot on a Youtube Channel](https://github.com/emmethalm/youtube-to-chatbot)
-
 
 
 ## Model cards
@@ -287,8 +140,9 @@ This repo contains some notes I make from online content and any links to materi
 * [Spotify engineering blog - how do they personalise recommendations](https://engineering.atspotify.com/2021/12/how-spotify-uses-ml-to-create-the-future-of-personalization/)
 * [Netflix engineering blog](https://research.netflix.com/business-area/marketing-and-growth)
 * [Discord blog about data scientists - two types](https://discord.com/blog/how-data-science-informs-strategy-innovation-at-discord)
-
-
+* [Man-hours for watch matching - A good example of story telling](https://watchesbysjx.com/2022/11/watchmaking-market-map-2022.html)
+* [Showcase of tracking players with YOLOv5](https://github.com/roboflow/notebooks/blob/main/notebooks/how-to-track-football-players.ipynb)
+     * [Blog showcase](https://blog.roboflow.com/track-football-players/)
 
 
 
@@ -335,6 +189,18 @@ This repo contains some notes I make from online content and any links to materi
 * [Apache is better than pandas for memory](https://wesmckinney.com/blog/apache-arrow-pandas-internals/)
 * [Python Decorators](https://realpython.com/primer-on-python-decorators/)
 * [Speeding up Python with Numba](https://numba.readthedocs.io/en/stable/user/5minguide.html)
+* [Cookiecutter data science](https://github.com/drivendata/cookiecutter-data-science)
+* [Python developer skills roadmap](https://roadmap.sh/python)
+* [Google Python Styleguide](https://google.github.io/styleguide/pyguide.html)
+* [Seaborn object methods](https://seaborn.pydata.org/tutorial/objects_interface.html)
+* [Making Python products for predictive analytics](https://www.coursera.org/specializations/python-data-products-for-predictive-analytics)
+* [Python documentation with Sphinx](https://www.sphinx-doc.org/en/master/)
+* [Pre-commit python hooks](https://ljvmiranda921.github.io/notebook/2018/06/21/precommits-using-black-and-flake8/)
+* [AutoML with AutoGluon](https://auto.gluon.ai/stable/index.html)
+* [Creating a Python Package](https://packaging.python.org/en/latest/tutorials/packaging-projects/)
+* [Python feature engineering package](https://github.com/feature-engine/feature_engine)
+* [Python data structures and algorithms](https://runestone.academy/ns/books/published/pythonds/index.html)
+* [Python package for image stitching](https://github.com/lukasalexanderweber/stitching)
 
 ### Design patterns and good practice for code
 * [What are design patterns](https://en.m.wikipedia.org/wiki/Design_Patterns)
@@ -358,6 +224,7 @@ This repo contains some notes I make from online content and any links to materi
 * [PyTorch Examples](https://torch.mlverse.org/using_torch/)
 * [Introduction to PyTorch](https://pytorch.org/tutorials/beginner/nlp/pytorch_tutorial.html)
 * [Deep learning with Pytorch book](https://isip.piconepress.com/courses/temple/ece_4822/resources/books/Deep-Learning-with-PyTorch.pdf)
+* [Fashion-MNIST with PyTorch](https://github.com/pranay414/Fashion-MNIST-Pytorch)
 
 
 ### Matplotlib
@@ -508,7 +375,7 @@ This repo contains some notes I make from online content and any links to materi
 ## Other Links (misc)
 * [Project layout](https://github.com/yashgorana/tensorflow-starter-project/tree/main/notebooks)
 * [Feature engineering datetime features](https://stackoverflow.com/questions/46081731/whats-the-best-way-to-represent-hour-of-day-and-day-of-week-as-a-feature-in-for)
-  * [Representing days with angular distance](https://www.mikulskibartosz.name/time-in-machine-learning/)
+* [Representing days with angular distance](https://www.mikulskibartosz.name/time-in-machine-learning/)
 *  [Rearch scientist gallery of links](https://github.com/ahmedbahaaeldin/From-0-to-Research-Scientist-resources-guide)
 * [Permutation importance to select features](https://www.google.com/search?q=permutatjon+importance&rlz=1CDGOYI_enGB760GB760&oq=permutatjon+importance&aqs=chrome..69i57j0i13i512l5.4348j0j7&hl=en-GB&sourceid=chrome-mobile&ie=UTF-8)
 * [Feature importance from XGBoost](https://mljar.com/blog/feature-importance-xgboost/)
@@ -521,15 +388,7 @@ This repo contains some notes I make from online content and any links to materi
 * [A map of data science](https://app.learney.me/maps/StatQuest)
 
 
-* [95 Python DS project ideas](https://python.plainenglish.io/85-data-science-projects-c03c8750599e)
-* [Twitter bot in Python](https://dylancastillo.co/how-to-make-a-twitter-bot-for-free/)
-* [Data Science Case studies](https://www.crayondata.com/6-of-my-favorite-case-studies-in-data-science/)
-* [Simple data science projects](https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/)
-* [Gallery of data science projects](https://amankharwal.medium.com/)
-* [Simple data science project - loan prediction](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#About)
 
-
-* [Data Science Interview Question help](https://dipranjan.github.io/dsinterviewqns/intro.html)
 
 
 * [Another gallery of data science links](https://github.com/academic/awesome-datascience)
@@ -539,6 +398,94 @@ This repo contains some notes I make from online content and any links to materi
 * [Gallery of more data science technique notebooks](https://github.com/donnemartin/data-science-ipython-notebooks)
 * [Gallery of advanced ML notebooks](https://github.com/Nyandwi/machine_learning_complete)
 * [Good ML libraries Gallery](https://github.com/ml-tooling/best-of-ml-python)
+* [ML pen and paper exercises](https://github.com/michaelgutmann/ml-pen-and-paper-exercises)
+* [Explaining and understanding random forests](https://arxiv.org/abs/1407.7502)
 
 
+
+
+* [Transformers explained posters](https://github.com/abacaj/transformers)
+* [What are data products](https://analyticsindiamag.com/how-to-build-better-data-products/)
+* [Building a data product in 10 days](https://www.kdnuggets.com/2018/07/building-data-science-product-10-days.html)
+
+
+* [PDF handbook of cluster analysis](https://www.semanticscholar.org/paper/Handbook-of-Cluster-Analysis-Hennig-Meil%C4%83/38a94050e12b01027d62b72a1cdac7c17b2cc8a2)
+* [Clustering on mixed data types](https://towardsdatascience.com/clustering-on-mixed-data-types-5fe226f9d9ca)
+* [Cluster analysis on Panel Data](https://stats.stackexchange.com/questions/88320/cluster-analysis-on-panel-data)
+
+* [Ingesting documents with DL and CV](https://www.ibm.com/blogs/research/2020/05/largest-dataset-for-document-layout-analysis-used-to-ingest-covid-19-data/)
+* [GitHub cheat sheet](https://github.com/tiimgreen/github-cheat-sheet)
+* [End-to-end cloud compute stack for AI and ML](https://modal.com/)
+
+
+* [Standford full technical book on RL](https://web.stanford.edu/class/psych209/Readings/SuttonBartoIPRLBook2ndEd.pdf)
+* [!!Stanford Supervised learning intro notes](https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning)
+
+* [Annotate text with Streamlit](https://github.com/tvst/st-annotated-text)
+* [Complete intro to how the internet works](https://github.com/vasanthk/how-web-works)
+
+* [Course - Forecasting with ML](https://corise.com/course/forecasting-with-machine-learning)
+* [Theory-practice gap paper](https://www.sciencedirect.com/science/article/pii/S1367578820300080)
+
+
+* [Never-ending learners](https://www.deepmind.com/blog/benchmarking-the-next-generation-of-never-ending-learners)
+
+
+* [Papers about transformers](https://github.com/dair-ai/Transformers-Recipe)
+* [Supervised ML courses](https://dair-ai.notion.site/Course-1-Supervised-Machine-Learning-3a200719f58145dc8a701a2545bdf9f4)
+
+
+* [DVC](https://dvc.org/)
+* [Graph Neural Networks](https://distill.pub/2021/gnn-intro/)
+
+
+
+
+
+* [RLHF explained](https://wandb.ai/ayush-thakur/RLHF/reports/Understanding-Reinforcement-Learning-from-Human-Feedback-RLHF-Part-1--VmlldzoyODk5MTIx)
+
+
+* [Guide to using MLflow](https://docs.databricks.com/mlflow/index.html)
+
+
+* [Huggingface NLP course](https://huggingface.co/learn/nlp-course/chapter0/1)
+
+* [Key ML papers explaned](https://github.com/dair-ai/ML-Papers-Explained)
+* [Stanford Report on AI trends](https://aiindex.stanford.edu/report/)
+
+
+* [Backpropagation neural network in Excel](https://pub.towardsai.net/building-a-neural-network-with-backpropagation-in-excel-b6c5d41b1c2)
+* [Abstract and reasoning corpus - The new AI benchmark](https://github.com/fchollet/ARC)
+
+* [BTYD and Customer Lifetime value](https://saulventura.github.io/BTYD/)
+
+* [Blog - building a personal search engine](https://thesephist.com/posts/monocle/)
+* [Paper summarisation with Langchain](https://lancemartin.notion.site/lancemartin/Langchain-for-paper-summarization-d4ad122ea9a64c0eb1f981e743d6c419)
+* [Youtube walkthrough using Langchain to read PDF](https://www.youtube.com/watch?app=desktop&v=ih9PBGVVOO4)
+* [Backpropagation in Excel](https://pub.towardsai.net/building-a-neural-network-with-backpropagation-in-excel-b6c5d41b1c2)
+* [Python UMAP dimensionality reduction](https://umap.scikit-tda.org/transform.html)
+* [Train a chatbot on a Youtube Channel](https://github.com/emmethalm/youtube-to-chatbot)
+* [Important ML papers explained](https://github.com/dair-ai/ML-Papers-Explained)
+* [huggingface ML course](https://huggingface.co/learn/nlp-course/chapter0/1)
+
+* [Another project documenting method](https://squidfunk.github.io/mkdocs-material/)
+
+
+* [Microsoft time series forecasting framework](https://microsoft.github.io/finnts/)
+
+* [Deep learning course - videos and slides](https://fleuret.org/dlc/)
+
+* [MMOCR](https://github.com/open-mmlab/mmocr)
+* [Video to watch](https://www.youtube.com/watch?app=desktop&v=yrtAoBr3iuQ&feature=youtu.be)
+* [Best of ML with Python](https://github.com/ml-tooling/best-of-ml-python)
+
+
+### Project ideas
+* [Data project ideas](https://datastoryteller.gumroad.com/p/examples-of-data-analytics-projects)
+* [Portfolio of cool data science projects](https://www.datascienceportfol.io/data-science-projects/)
+* [95 Python DS project ideas](https://python.plainenglish.io/85-data-science-projects-c03c8750599e)
+* [Data Science Case studies](https://www.crayondata.com/6-of-my-favorite-case-studies-in-data-science/)
+* [Simple data science projects](https://www.analyticsvidhya.com/blog/2020/12/10-data-science-projects-for-beginners/)
+* [Gallery of data science projects](https://amankharwal.medium.com/)
+* [Simple data science project - loan prediction](https://datahack.analyticsvidhya.com/contest/practice-problem-loan-prediction-iii/#About)
 
