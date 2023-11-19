@@ -2,6 +2,11 @@
 
 This repo contains some notes I make from online content and any links to materials I plan to use in the future.
 
+### Up next
+* [YT: DBT Airflow]
+* [YT: Docker]
+* [YT: Arjan: Refactoring a Data Science Project Series]
+* [Book: Fundamentals of Data Engineering]
 ---
 
 
